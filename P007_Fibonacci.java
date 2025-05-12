@@ -1,4 +1,4 @@
-public class P7_Fibonacci {
+public class P007_Fibonacci {
     // Iterative method :
 
     // public static void main(String[] args) {

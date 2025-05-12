@@ -1,4 +1,4 @@
-public class P1_SumOfArray {
+public class P001_SumOfArray {
 
     public static void main(String[] args) {
         int[] numbers = {1, 4, 8, 5, 22};

@@ -1,4 +1,4 @@
-public class P2_PalindromeString {
+public class P002_PalindromeString {
 
     public static void main(String[] args) {
         String str = "i am a good boy";

@@ -1,4 +1,4 @@
-public class P5_SumOfDigit {
+public class P005_SumOfDigit {
     // Iterative method :
 
     // public static void main(String[] args) {

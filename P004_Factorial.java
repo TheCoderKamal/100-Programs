@@ -1,4 +1,4 @@
-public class P4_Factorial {
+public class P004_Factorial {
     
     // Iterative method :
     

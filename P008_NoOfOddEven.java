@@ -1,4 +1,4 @@
-public class P8_NoOfOddEven {
+public class P008_NoOfOddEven {
     public static void main(String[] args) {
         int number = 23487658;
         int odd = 0;

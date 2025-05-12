@@ -1,4 +1,4 @@
-public class P9_OddEven {
+public class P009_OddEven {
     public static void main(String[] args) {
         int n = 70;
 

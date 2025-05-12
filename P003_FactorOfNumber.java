@@ -1,4 +1,4 @@
-public class P3_FactorOfNumber {
+public class P003_FactorOfNumber {
 
     // iterative
 

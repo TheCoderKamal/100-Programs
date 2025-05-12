@@ -1,4 +1,4 @@
-public class P6_Pattern {
+public class P006_Pattern {
     public static void main(String[] args) {
         int a = 6;
 
