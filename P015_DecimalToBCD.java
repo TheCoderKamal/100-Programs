@@ -27,18 +27,11 @@ public class P015_DecimalToBCD {
         System.out.print("Enter a nubmer : ");
         int num = sc.nextInt();
 
-        int reversed = 0;
+        String str = Integer.toString(num);
 
-        while(num > 0){
-            int digit = num % 10;
-            reversed = reversed * 10 + digit;
-            num /= 10;
-        }   
-
-        while (reversed > 0) {
-            int digit = reversed % 10;
+        for(int i = 0; i < str.length(); i++){
+            int digit = (int)str.charAt(i);
             convertBinary(digit);
-            reversed /= 10;
         }
     }
 }
